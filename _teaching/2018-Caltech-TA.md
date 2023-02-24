@@ -2,9 +2,9 @@
 title: "Teaching Assistant @ Caltech"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/2018-Caltech-TA
+permalink: /teaching/2019-Caltech-TA
 venue: "California Institute of Technology CMS Department"
-date: 2018-09-20
+date: 2019-2022
 location: "Pasadena, CA"
 ---
 

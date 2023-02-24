@@ -4,7 +4,7 @@ collection: teaching
 type: "Course Assistant"
 permalink: /teaching/2022-Stanford-CA
 venue: "Stanford University CS Department"
-date: 2022-09-20
+date: 2022
 location: "Stanford, CA"
 ---
 
