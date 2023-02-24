@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jennie Chung"
+title                    : "academic-pages"
 title_separator          : "-"
 name                     : &name "Jennie Chung"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jennie Chung"
-  avatar           : "profile_pic.jpeg"
+  avatar           : "images/profile_pic.jpeg"
   bio              : "MSCS @ Stanford University"
   location         : "Stanford, CA | Boulder, CO"
   employer         :
