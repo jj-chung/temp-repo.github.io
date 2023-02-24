@@ -8,14 +8,10 @@ date: 2019-09-01
 location: "Pasadena, CA"
 ---
 
-<<<<<<< HEAD
 Courses TA'd at California Institute of Technology, 2019-2022.
 
 CS 115. Functional Programming
 ---
-=======
-**CS 115. Functional Programming**
->>>>>>> parent of fc9e69d... Changed headers once again
 Graded assignments for functional programming in Haskell. Held office hours twice a week to debug students' code and answer conceptual questions.
 
 * [Course Description](https://www.cms.caltech.edu/academics/courses/cs-115)
@@ -25,12 +21,8 @@ Held a probability review session and office hours. Wrote and graded problem set
 
 * [Course Description](https://www.cms.caltech.edu/academics/courses/cmscseeids-144)
 
-<<<<<<< HEAD
 ACM/EE/IDS 116. Introduction to Probability
 ---
-=======
-**ACM/EE/IDS 116. Introduction to Probability**
->>>>>>> parent of fc9e69d... Changed headers once again
 Responsible for helping students debug probability simulations, holding office hours, grading, and answering questions on online forums (Piazza).
 
 * [Course Description](https://www.cms.caltech.edu/academics/courses/acmeeids-116)
