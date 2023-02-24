@@ -1,13 +1,15 @@
 ---
 title: "Teaching Assistant @ Stanford"
 collection: teaching
-type: "CA/TA"
+type: "Course Assistant"
 permalink: /teaching/2022-Stanford-CA
 venue: "Stanford University CS Department"
 date: 2015-09-20
 location: "Stanford, CA"
 ---
 
+CS 103. Mathematical Foundations of Computing 
+---
 Course Assistant for Mathematical Foundations of Computing. Teaching graph theory, complexity theory, and discrete structures. Responsibilities include holding multiple office hours/week, grading, and answering student questions.
 
 * [Course Website](https://web.stanford.edu/class/archive/cs/cs103/cs103.1234/)
