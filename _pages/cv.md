@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 **M.S. in Computer Science, Stanford University, 2022-2024 (expected)** \
 4.0 GPA \
 **B.S. in Computer Science and Mathematics, California Institute of Technology, 2018-2022** \
 4.2/4.3 GPA 
 
 Work Experience
-======
+---
 **Software Engineering Intern** \
 Mathworks \
 Natick, MA \
@@ -44,7 +44,7 @@ Stanford, CA \
 
   
 Languages
-======
+---
 * Python
 * C/C++
 * JavaScript
@@ -54,18 +54,18 @@ Languages
 * R
 
 Skills
-======
+---
 * ML/AI Theory and Applications
 * Data Structures & Algorithms
 * Proof Writing + Teaching
   
 Teaching
-======
+---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Student Organizations/Leadership
-======
+---
 * Women in Computer Science Mentor @ Stanford University
 * Volunteer @ Caltech Y
