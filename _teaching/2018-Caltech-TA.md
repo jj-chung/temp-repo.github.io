@@ -8,6 +8,8 @@ date: 2019-2022
 location: "Pasadena, CA"
 ---
 
+Courses TA'd at California Institute of Technology, 2019-2022.
+
 CS 115. Functional Programming
 ---
 Graded assignments for functional programming in Haskell. Held office hours twice a week to debug students' code and answer conceptual questions.

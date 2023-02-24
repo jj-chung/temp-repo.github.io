@@ -8,6 +8,8 @@ date: 2022
 location: "Stanford, CA"
 ---
 
+Courses TA'd at Stanford University, 2022.
+
 CS 103. Mathematical Foundations of Computing
 ---
 Course Assistant for Mathematical Foundations of Computing. Teaching graph theory, complexity theory, and discrete structures. Responsibilities include holding multiple office hours/week, grading, and answering student questions.
