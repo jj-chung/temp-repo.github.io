@@ -23,6 +23,7 @@ Held a probability review session and office hours. Wrote and graded problem set
 * [Course Description](https://www.cms.caltech.edu/academics/courses/cmscseeids-144)
 
 ACM/EE/IDS 116. Introduction to Probability
+---
 Responsible for helping students debug probability simulations, holding office hours, grading, and answering questions on online forums (Piazza).
 
 * [Course Description](https://www.cms.caltech.edu/academics/courses/acmeeids-116)
