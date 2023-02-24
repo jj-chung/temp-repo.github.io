@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-**B.S. in Computer Science and Mathematics, California Institute of Technology, 2018-2022** \
-4.2/4.3 GPA \
 **M.S. in Computer Science, Stanford University, 2022-2024 (expected)** \
-4.0 GPA 
+4.0 GPA \
+**B.S. in Computer Science and Mathematics, California Institute of Technology, 2018-2022** \
+4.2/4.3 GPA 
 
 Work Experience
 ======
