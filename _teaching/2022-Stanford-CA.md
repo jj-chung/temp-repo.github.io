@@ -1,8 +1,8 @@
 ---
-title: "Teaching Assistant @ Caltech"
+title: "Teaching Assistant @ Stanford"
 collection: teaching
 type: "CA/TA"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2022-Stanford-CA
 venue: "Stanford University CS Department"
 date: 2015-09-20
 location: "Stanford, CA"
