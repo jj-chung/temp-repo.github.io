@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2019-Caltech-TA
 venue: "California Institute of Technology CMS Department"
-date: 2019-2022
+date: 2019-09-01
 location: "Pasadena, CA"
 ---
 
