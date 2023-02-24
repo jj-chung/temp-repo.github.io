@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant @ Caltech"
 collection: teaching
-type: "Workshop"
+type: "CA/TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Stanford University CS Department"
+date: 2015-09-20
+location: "Stanford, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course Assistant for Mathematical Foundations of Computing. Teaching graph theory, complexity theory, and discrete structures. Responsibilities include holding multiple office hours/week, grading, and answering student questions.
 
-Heading 1
-======
+* [Course Website](https://web.stanford.edu/class/archive/cs/cs103/cs103.1234/)
 
-Heading 2
-======
+* [Course Description](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=CS+103%3A+Mathematical+Foundations+of+Computing&collapse=)
 
-Heading 3
-======
