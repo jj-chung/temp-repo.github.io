@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /resume-cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,42 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Mathematics, California Institute of Technology, 2018-2022
+* M.S. in Compute Science, Stanford University, 2022-2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software Engineering Intern
+  * Mathworks
+  * Natick, MA
+  * 06/2022-09/2022
+  * Created GitHub search capability in Web Widgets Usage Tool, a tool that collects and retrieves usage data for tools developed by the Web Widgets Team from an SQL database. Used SQLite, GitHub REST API, and Javascript for implementation and testing. Designed, implemented, and documented a build system driven by NPM (default package manager for JS runtime environment Node.js) to eliminate the overhead and complexity of Maven (existing build tool configured for JS code). Wrote in JavaScript.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Engineering Intern
+  * Mathworks
+  * Natick, MA
+  * 06/2021-09/2021
+  * Designed, developed, and tested Charts and Components (graphics object containers) with MATLAB Object-Oriented Programming for MATLAB File Exchange. Learned and worked with GitLab, Confluence, Jira, and agile development practices.
+
+* JPL Technical Intern
+  * NASA
+  * Flintridge, CA
+  * 06/2019-09/2019
+  * Wrote Python and IDL programs for populating XML metadata for large sets of spectral data from Jupiter's atmosphere. Tested and implemented hash tables through IDL.
+
+* Course Assistant
+  * Stanford University CS Dept.
+  * Stanford, CA
+  * 09/2022-Present
+  * Course Assistant for Mathematical Foundations of Computing at Stanford University. Created set/exam questions, held multiple office hours/week, graded, and answered student questions.
+
   
+Languages
+======
+* Python
+* C/C++
+* JavaScript
+* HTML/CSS
+* MATLAB
+* Java
+* R
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* ML/AI Theory and Applications
+* Data Structures & Algorithms
+* Test Suite Development
+* Agile Methodology
+* Proof Writing + Teaching
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -56,4 +68,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Women in Computer Science Mentor @ Stanford University
+* Volunteer @ Caltech Y
