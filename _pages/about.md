@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-About Me
-======
 I am a current MSCS student and CS 103 Mathematical Foundations of Computing Course Assistant. 
 I am passionate about programming, teaching, writing robust code, problem-solving, and constantly striving to learn new things! Currently, some areas I'm interested in are algorithms, NLP, Ed Tech, and cybersecurity.
 
