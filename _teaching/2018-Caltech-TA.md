@@ -16,7 +16,8 @@ Graded assignments for functional programming in Haskell. Held office hours twic
 
 * [Course Description](https://www.cms.caltech.edu/academics/courses/cs-115)
 
-**CS 144. Networks: Structure & Economics**
+CS 144. Networks: Structure & Economics
+---
 Held a probability review session and office hours. Wrote and graded problem sets.
 
 * [Course Description](https://www.cms.caltech.edu/academics/courses/cmscseeids-144)
