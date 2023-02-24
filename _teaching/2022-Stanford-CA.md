@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant @ Stanford"
+title: "Course Assistant @ Stanford"
 collection: teaching
 type: "Course Assistant"
 permalink: /teaching/2022-Stanford-CA
