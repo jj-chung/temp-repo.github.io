@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "academic-pages"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jennie Chung"
 description              : &description "personal description"
