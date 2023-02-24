@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /resume-cv/
 author_profile: true
 redirect_from:
@@ -38,7 +38,7 @@ Wrote Python and IDL programs for populating XML metadata for large sets of spec
 
 **Course Assistant** \
 Stanford University CS Dept. \
-Stanford, CA \
+Stanford, CA \ \
 09/2022-Present \
 Course Assistant for Mathematical Foundations of Computing at Stanford University. Created set/exam questions, held multiple office hours/week, graded, and answered student questions.
 
